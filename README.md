@@ -2,7 +2,7 @@
 
 ## Steps Involved:
 
-1. Node.js Tutorial: [Installing Node.js](https://www.youtube.com/watch?v=qZQmCfkmbNA)
+1. Install Node.js. Watch this tutorial if you donot have Nodejs installed in your system: [Installing Node.js](https://www.youtube.com/watch?v=qZQmCfkmbNA)
 
     After successfull installation of Node.js. You can simply follow these below steps:
 
@@ -11,6 +11,7 @@
     
     -  ***Do not change the field headings.***
     -  ***Do not leave any fields empty.***
+    -  ***Do not change the file format.***
     
 4. Open **Command Prompt** from the same folder you are currently in. You can do this by simply replacing everything on address bar with `cmd` and pressing Enter.
 
