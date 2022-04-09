@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chromedriver": "^83.0.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "selenium-webdriver": "^4.0.0-alpha.7",
     "xlsx": "^0.16.3"
   }
